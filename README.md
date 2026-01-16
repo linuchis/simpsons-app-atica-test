@@ -2,8 +2,11 @@
 
 Una aplicación móvil interactiva inspirada en el universo de Los Simpson. Este proyecto fue desarrollado como una prueba técnica, demostrando habilidades en el manejo de estados globales, persistencia de datos local, animaciones fluidas y consumo de APIs REST.
 
+## [Video de la APP!](https://youtu.be/YWlQWO0p8eQ?feature=shared)
+
 <img width="1249" height="881" alt="image" src="https://github.com/user-attachments/assets/3377b614-14a3-4cec-8a99-cc7c212f712e" />
 <img width="1203" height="888" alt="image" src="https://github.com/user-attachments/assets/13d1c83a-fe28-42d4-990e-4c0e6d8fdc01" />
+
 
 
 
